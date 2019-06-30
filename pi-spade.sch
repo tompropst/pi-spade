@@ -1,35 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
+EESchema Schematic File Version 4
 LIBS:pi-spade-cache
-EELAYER 25 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -164,7 +135,7 @@ GPIO26
 Text Label 4500 4050 0    60   ~ 0
 GND
 $Comp
-L CONN_02X20 P1
+L pi-spade-rescue:CONN_02X20 P1
 U 1 1 57E69125
 P 5500 3100
 F 0 "P1" H 5500 4150 50  0000 C CNN
@@ -175,7 +146,7 @@ F 3 "" H 5500 2150 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X20 P2
+L pi-spade-rescue:CONN_01X20 P2
 U 1 1 57E6916A
 P 6700 3100
 F 0 "P2" H 6700 4150 50  0000 C CNN

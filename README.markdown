@@ -21,7 +21,7 @@ The most convenient arrangement for a Raspberry Pi Zero is to use right a right 
 
 ![Fully Assembled View](./img/pi-spade-full.jpg "Fully Assembled View")
 
-![Separate Parts View](./img/pi-spade-part.jpgi "Separate Parts View 1")
+![Separate Parts View](./img/pi-spade-part.jpg "Separate Parts View 1")
 
 ![Separate Parts View](./img/pi-spade-assembly.jpg "Separate Parts View 2")
 
